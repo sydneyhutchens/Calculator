@@ -1,0 +1,5 @@
+calculator\NoPrecedenceCalculatorTest.class
+calculator\PrecedenceCalculatorTest.class
+calculator\SimpleCalculatorTest.class
+calculator\ParenthesisCalculatorTest.class
+console\ConsoleTest.class

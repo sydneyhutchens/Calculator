@@ -1,0 +1,14 @@
+calculator\NoPrecedenceCalculator.class
+util\TokenDispenser.class
+calculator\ParenthesisCalculator.class
+calculator\SystemInfo.class
+util\Precision.class
+calculator\NoPrecedenceCalculator$1.class
+module-info.class
+calculator\SimpleCalculator$State.class
+calculator\SimpleCalculator$1.class
+calculator\ParenthesisCalculator$1.class
+calculator\SimpleCalculator.class
+calculator\App.class
+calculator\PrecedenceCalculator.class
+console\Console.class

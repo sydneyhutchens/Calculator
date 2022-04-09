@@ -1,0 +1,4 @@
+--patch-module
+calculator=_
+--add-reads
+calculator=ALL-UNNAMED
